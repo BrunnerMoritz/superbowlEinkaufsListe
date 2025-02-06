@@ -21,7 +21,7 @@
 | Artikel        | Mahr | Sexmonsta | Archi | JackyPold | Der Schmale | Der Breite | Albaner | Bosna | Anti Looser | Rechberg Mihi  |
 
 | 🍺 Bier       |     |     |     |  X   |     |     |     |     |     |    X  |
-| 🥤 Mischgetränke |     |     |     |     |     |  Sprite/Cola   |  Sprudelwasser   |     |  Energys   |       |
+| 🥤 Mischgetränke |     |  optional Klopfer   |     |     |     |  Sprite/Cola   |  Sprudelwasser   |     |  Energys   |       |
 | 🥃 Hochprozentiges  |     |     |  Roter Vodka, Bacardi |  Wein   |  Malibu, XuXu, weißer Vodka, Saurz|  Berliner Luft   |  Wein   |   Jacky  |     |        |
 |===
 
