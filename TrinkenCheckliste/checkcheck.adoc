@@ -1,0 +1,30 @@
+= Super-Bowl-Checkliste
+:author: Brunner
+:date: 2025-02-06
+:toc:
+
+== Teilnehmer
+- Mahr
+- Sexmonsta
+- Archi
+- JackyPold
+- Der Schmale
+- Der Breite
+- Albaner
+- Bosna
+- Anti Looser
+
+== Einkaufsliste
+
+=== Getränke
+|===
+| Artikel        | Mahr | Sexmonsta | Archi | JackyPold | Der Schmale | Der Breite | Albaner | Bosna | Anti Looser | Rechberg Mihi  |
+
+| 🍺 Bier       |     |     |     |  X   |     |     |     |     |     |    X  |
+| 🥤 Mischgetränke |     |     |     |     |     |  Sprite/Cola   |  Sprudelwasser   |     |  Energys   |       |
+| 🥃 Hochprozentiges  |     |     |  Roter Vodka, Bacardi |  Wein   |  Malibu, XuXu, weißer Vodka, Saurz|  Berliner Luft   |  Wein   |   Jacky  |     |        |
+|===
+
+=== Snacks
+
+Mahr
